@@ -1,2 +1,6 @@
 # web3_fingerprinting_research
-Researching how dapps track the users web2 &amp; web3 analysis
+Researching how dapps track the users web2 &amp; web3 analysis. 
+
+Here is the code of the script that I created to do the seminar for my Master studies at TUM. 
+
+This study investigates user tracking mechanisms in decentralized applications, focusing on the intersection of traditional web tracking and blockchain transparency. Through analysis of 30 popular dapps, we found that 63.3% implement some form of tracking, with Google Analytics being the most prevalent (53.3%). We identify a concerning trend where specialized Web3 analytics solutions like Cookie3 (adopted by 10% of examined dapps) aim to correlate blockchain wallet addresses with browser fingerprints, potentially compromising user privacy. Our research reveals how the combination of browser fingerprinting and public blockchain data creates a "persistent identity bridge," enabling unprecedented user profiling across Web2 and Web3 ecosystems. While major protocols like Uniswap and Balancer show no tracking implementation, the emergence of Web3-specific analytics tools signals potential privacy challenges. We present technical analysis of tracking methodologies, discuss regulatory implications, and propose privacy-preserving recommendations for both users and developers.
